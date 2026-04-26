@@ -1,5 +1,5 @@
 
-import {useState,useEffect} from 'react';
+import React, { useState, useEffect } from 'react';
 const quote=['Discipline beats mood.','Small wins compound.','Future banker loading.','Consistency creates rank.'];
 const blank={date:'',exam:'SBI PO',phase:'Prelims',hours:'',topic:'',score:'',gym:'No',mood:'',notes:''};
 export default function App(){
