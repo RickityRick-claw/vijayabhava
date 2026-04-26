@@ -1,5 +1,1 @@
-import { defineConfig } from 'vite'
-
-export default defineConfig({
-  base: '/vijayabhava/'
-})
+import { defineConfig } from 'vite'; export default defineConfig({ base:'/vijayabhava/' });
